@@ -1,0 +1,17 @@
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/bin/Debug/net6.0/C1.consoleApp
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/bin/Debug/net6.0/C1.consoleApp.deps.json
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/bin/Debug/net6.0/C1.consoleApp.runtimeconfig.json
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/bin/Debug/net6.0/C1.consoleApp.dll
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/bin/Debug/net6.0/C1.consoleApp.pdb
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.csproj.AssemblyReference.cache
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.AssemblyInfoInputs.cache
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.AssemblyInfo.cs
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.csproj.CoreCompileInputs.cache
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.csproj.CopyComplete
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.dll
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/refint/C1.consoleApp.dll
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.pdb
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/C1.consoleApp.genruntimeconfig.cache
+/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/obj/Debug/net6.0/ref/C1.consoleApp.dll

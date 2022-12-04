@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLpkOWRqTz3rfyEf2TdGRxeiDXJM4SHNY7/ei0WCUvTWD9xGMsu4UVHK7vQub5QRdQlMECaTWsa15R5jLI4Ziw==",
+  "success": true,
+  "projectFilePath": "/Users/ishashrestha/Projects/C1.consoleApp/C1.consoleApp/C1.consoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ishashrestha/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
